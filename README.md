@@ -23,10 +23,10 @@ This project is a web-based digit recognizer using a Convolutional Neural Networ
 
 ### Model Prediction
 
-![Digit Drawing](Screenshot%202025-06-25%20150720.png)
+![Digit Drawing](Screenshot1.png)
 
 
-![Prediction Result](Screenshot%202025-06-25%20150750.png)
+![Prediction Result](Screenshot2.png)
 
 
 ---
