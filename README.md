@@ -5,7 +5,7 @@ This project is a web-based digit recognizer using a Convolutional Neural Networ
 
 ---
 
-## 📦 Features
+##  Features
 - Draw any digit on an interactive canvas
 - Real-time prediction using a trained CNN model
 - Confidence score for each prediction
@@ -13,13 +13,13 @@ This project is a web-based digit recognizer using a Convolutional Neural Networ
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend**: Streamlit + `streamlit-drawable-canvas`
 - **Model**: CNN in PyTorch
 - **Dataset**: [MNIST handwritten digits](http://yann.lecun.com/exdb/mnist/)
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### Model Prediction
 
@@ -31,5 +31,5 @@ This project is a web-based digit recognizer using a Convolutional Neural Networ
 
 ---
 
-## 📄 License
+##  License
 This project is licensed under the MIT License.
