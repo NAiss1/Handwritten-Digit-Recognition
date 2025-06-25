@@ -17,6 +17,17 @@ This project is a web-based digit recognizer using a Convolutional Neural Networ
 - **Frontend**: Streamlit + `streamlit-drawable-canvas`
 - **Model**: CNN in PyTorch
 - **Dataset**: [MNIST handwritten digits](http://yann.lecun.com/exdb/mnist/)
+---
+
+## 🖼️ Screenshots
+
+### Model Prediction
+
+![Digit Drawing](Screenshot%202025-06-25%20150720.png)
+
+
+![Prediction Result](Screenshot%202025-06-25%20150750.png)
+
 
 ---
 
